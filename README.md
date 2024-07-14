@@ -14,15 +14,8 @@
 - **Jenkins**: ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 - **AWS**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## GitHub Stats
-**GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-**Top Languages:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+- [LinkedIn](https://www.linkedin.com/in/rahul-shaik-5b4300169/)
 
 <!-- Optional: GitHub Trophies -->
 **GitHub Trophies:**
